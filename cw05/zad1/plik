@@ -1,0 +1,3 @@
+find /usr/include -type d | wc -l
+find /home/andrzej -type f | wc -l
+last root | head -n-2 | wc -l

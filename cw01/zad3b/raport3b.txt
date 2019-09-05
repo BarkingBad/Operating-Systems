@@ -1,0 +1,386 @@
+BIBLIOTEKA STATYCZNA 
+O
+
+Czas rzeczywisty to: 0.000539
+Czas uzytkownika to: 0.000077
+Czas systemu to: 0.000264
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000034
+Czas uzytkownika to: 0.000004
+Czas systemu to: 0.000006
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O1
+
+Czas rzeczywisty to: 0.000513
+Czas uzytkownika to: 0.000068
+Czas systemu to: 0.000256
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000030
+Czas uzytkownika to: 0.000002
+Czas systemu to: 0.000008
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O2
+
+Czas rzeczywisty to: 0.000512
+Czas uzytkownika to: 0.000066
+Czas systemu to: 0.000257
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000029
+Czas uzytkownika to: 0.000002
+Czas systemu to: 0.000009
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O3
+
+Czas rzeczywisty to: 0.000510
+Czas uzytkownika to: 0.000080
+Czas systemu to: 0.000247
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000013
+Czas uzytkownika to: 0.000004
+Czas systemu to: 0.000007
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O0
+
+Czas rzeczywisty to: 0.000534
+Czas uzytkownika to: 0.000079
+Czas systemu to: 0.000261
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000039
+Czas uzytkownika to: 0.000002
+Czas systemu to: 0.000010
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+Os
+
+Czas rzeczywisty to: 0.000515
+Czas uzytkownika to: 0.000069
+Czas systemu to: 0.000262
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000039
+Czas uzytkownika to: 0.000001
+Czas systemu to: 0.000010
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+BIBLIOTEKA WSPOLDZIELONA
+
+O
+
+Czas rzeczywisty to: 0.000513
+Czas uzytkownika to: 0.000080
+Czas systemu to: 0.000246
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000035
+Czas uzytkownika to: 0.000003
+Czas systemu to: 0.000008
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O1
+
+Czas rzeczywisty to: 0.000514
+Czas uzytkownika to: 0.000070
+Czas systemu to: 0.000258
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000034
+Czas uzytkownika to: 0.000002
+Czas systemu to: 0.000008
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O2
+
+Czas rzeczywisty to: 0.000519
+Czas uzytkownika to: 0.000071
+Czas systemu to: 0.000262
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000038
+Czas uzytkownika to: 0.000003
+Czas systemu to: 0.000008
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O3
+
+Czas rzeczywisty to: 0.000511
+Czas uzytkownika to: 0.000072
+Czas systemu to: 0.000254
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000033
+Czas uzytkownika to: 0.000002
+Czas systemu to: 0.000008
+
+
+Czas rzeczywisty to: 0.000002
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O0
+
+Czas rzeczywisty to: 0.000512
+Czas uzytkownika to: 0.000067
+Czas systemu to: 0.000260
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000067
+Czas uzytkownika to: 0.000003
+Czas systemu to: 0.000009
+
+
+Czas rzeczywisty to: 0.000003
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+Os
+
+Czas rzeczywisty to: 0.000528
+Czas uzytkownika to: 0.000079
+Czas systemu to: 0.000255
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000029
+Czas uzytkownika to: 0.000003
+Czas systemu to: 0.000007
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+BIBLIOTEKA LADOWANA DYNAMICZNA
+
+O
+
+Czas rzeczywisty to: 0.000511
+Czas uzytkownika to: 0.000071
+Czas systemu to: 0.000256
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000038
+Czas uzytkownika to: 0.000002
+Czas systemu to: 0.000008
+
+
+Czas rzeczywisty to: 0.000002
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O1
+
+Czas rzeczywisty to: 0.000516
+Czas uzytkownika to: 0.000072
+Czas systemu to: 0.000259
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000029
+Czas uzytkownika to: 0.000003
+Czas systemu to: 0.000007
+
+
+Czas rzeczywisty to: 0.000001
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O2
+
+Czas rzeczywisty to: 0.000523
+Czas uzytkownika to: 0.000074
+Czas systemu to: 0.000257
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000030
+Czas uzytkownika to: 0.000003
+Czas systemu to: 0.000007
+
+
+Czas rzeczywisty to: 0.000002
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O3
+
+Czas rzeczywisty to: 0.000513
+Czas uzytkownika to: 0.000078
+Czas systemu to: 0.000248
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000039
+Czas uzytkownika to: 0.000003
+Czas systemu to: 0.000008
+
+
+Czas rzeczywisty to: 0.000002
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+O0
+
+Czas rzeczywisty to: 0.000514
+Czas uzytkownika to: 0.000078
+Czas systemu to: 0.000251
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000011
+Czas uzytkownika to: 0.000004
+Czas systemu to: 0.000006
+
+
+Czas rzeczywisty to: 0.000002
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+Os
+
+Czas rzeczywisty to: 0.000516
+Czas uzytkownika to: 0.000075
+Czas systemu to: 0.000254
+
+
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Czas rzeczywisty to: 0.000038
+Czas uzytkownika to: 0.000002
+Czas systemu to: 0.000009
+
+
+Czas rzeczywisty to: 0.000002
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
+Porownujac czasy (glownie pierwszego testu ktory byl najbardziej miarodajny) mozna zauwazyc
+ze optymalizacja rzeczywiscie przyspiesza czas wykonania programu w kazdym przypadku.

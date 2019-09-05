@@ -1,0 +1,14 @@
+LIST
+ECHO echo1
+2ALL wiadomosc1
+FRIENDS 1
+2FRIENDS przyjaciel1
+2ONE 2 jedyny1
+ADD 2
+2FRIENDS przyjaciele2
+DEL 1
+2FRIENDS przyjaciel3
+FRIENDS
+2FRIENDS niktniedostanie1
+LIST
+STOP

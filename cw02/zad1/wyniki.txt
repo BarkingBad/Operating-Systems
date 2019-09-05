@@ -1,0 +1,241 @@
+Generuje 1000 lini o 1 bajtach
+real 0.00
+user 0.00
+sys 0.00
+Kopiuje plik dane do dest o 1000 liniach i 1 bajtach sys
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 1000 liniach i 1 bajtach sys
+real 0.32
+user 0.08
+sys 0.24
+Kopiuje plik dane do dest o 1000 liniach i 1 bajtach lib
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 1000 liniach i 1 bajtach lib
+real 0.14
+user 0.05
+sys 0.09
+Generuje 10000 lini o 1 bajtach
+real 0.01
+user 0.00
+sys 0.01
+Kopiuje plik dane do dest o 10000 liniach i 1 bajtach sys
+real 0.02
+user 0.00
+sys 0.02
+Sortuje plik dest o 10000 liniach i 1 bajtach sys
+real 31.62
+user 8.51
+sys 23.09
+Kopiuje plik dane do dest o 10000 liniach i 1 bajtach lib
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 10000 liniach i 1 bajtach lib
+real 13.62
+user 6.18
+sys 7.43
+Generuje 2500 lini o 4 bajtach
+real 0.00
+user 0.00
+sys 0.00
+Kopiuje plik dane do dest o 2500 liniach i 4 bajtach sys
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 2500 liniach i 4 bajtach sys
+real 2.01
+user 0.54
+sys 1.46
+Kopiuje plik dane do dest o 2500 liniach i 4 bajtach lib
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 2500 liniach i 4 bajtach lib
+real 0.87
+user 0.40
+sys 0.46
+Generuje 25000 lini o 4 bajtach
+real 0.04
+user 0.00
+sys 0.03
+Kopiuje plik dane do dest o 25000 liniach i 4 bajtach sys
+real 0.04
+user 0.00
+sys 0.03
+Sortuje plik dest o 25000 liniach i 4 bajtach sys
+real 198.72
+user 51.85
+sys 146.84
+Kopiuje plik dane do dest o 25000 liniach i 4 bajtach lib
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 25000 liniach i 4 bajtach lib
+real 83.94
+user 37.47
+sys 46.47
+Generuje 10000 lini o 512 bajtach
+real 0.07
+user 0.04
+sys 0.03
+Kopiuje plik dane do dest o 10000 liniach i 512 bajtach sys
+real 0.02
+user 0.01
+sys 0.01
+Sortuje plik dest o 10000 liniach i 512 bajtach sys
+real 32.78
+user 8.06
+sys 24.71
+Kopiuje plik dane do dest o 10000 liniach i 512 bajtach lib
+real 0.01
+user 0.00
+sys 0.00
+Sortuje plik dest o 10000 liniach i 512 bajtach lib
+real 17.52
+user 6.52
+sys 11.00
+Generuje 80000 lini o 512 bajtach
+real 0.51
+user 0.41
+sys 0.10
+Kopiuje plik dane do dest o 80000 liniach i 512 bajtach sys
+real 0.15
+user 0.01
+sys 0.13
+Sortuje plik dest o 80000 liniach i 512 bajtach sys
+real 2324.24
+user 527.32
+sys 1796.73
+Kopiuje plik dane do dest o 80000 liniach i 512 bajtach lib
+real 0.04
+user 0.00
+sys 0.04
+Sortuje plik dest o 80000 liniach i 512 bajtach lib
+real 1196.03
+user 434.04
+sys 761.88
+Generuje 10000 lini o 1024 bajtach
+real 0.12
+user 0.10
+sys 0.01
+Kopiuje plik dane do dest o 10000 liniach i 1024 bajtach sys
+real 0.02
+user 0.00
+sys 0.02
+Sortuje plik dest o 10000 liniach i 1024 bajtach sys
+real 35.87
+user 8.23
+sys 27.62
+Kopiuje plik dane do dest o 10000 liniach i 1024 bajtach lib
+real 0.01
+user 0.00
+sys 0.00
+Sortuje plik dest o 10000 liniach i 1024 bajtach lib
+real 23.28
+user 7.51
+sys 15.75
+Generuje 40000 lini o 1024 bajtach
+real 0.46
+user 0.41
+sys 0.05
+Kopiuje plik dane do dest o 40000 liniach i 1024 bajtach sys
+real 0.08
+user 0.01
+sys 0.07
+Sortuje plik dest o 40000 liniach i 1024 bajtach sys
+real 586.09
+user 132.92
+sys 453.10
+Kopiuje plik dane do dest o 40000 liniach i 1024 bajtach lib
+real 0.04
+user 0.00
+sys 0.03
+Sortuje plik dest o 40000 liniach i 1024 bajtach lib
+real 380.50
+user 120.30
+sys 260.16
+Generuje 1000 lini o 4096 bajtach
+real 0.04
+user 0.03
+sys 0.00
+Kopiuje plik dane do dest o 1000 liniach i 4096 bajtach sys
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 1000 liniach i 4096 bajtach sys
+real 0.34
+user 0.07
+sys 0.25
+Kopiuje plik dane do dest o 1000 liniach i 4096 bajtach lib
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 1000 liniach i 4096 bajtach lib
+real 0.47
+user 0.12
+sys 0.34
+Generuje 5000 lini o 4096 bajtach
+real 0.22
+user 0.21
+sys 0.00
+Kopiuje plik dane do dest o 5000 liniach i 4096 bajtach sys
+real 0.01
+user 0.00
+sys 0.01
+Sortuje plik dest o 5000 liniach i 4096 bajtach sys
+real 9.04
+user 2.11
+sys 6.93
+Kopiuje plik dane do dest o 5000 liniach i 4096 bajtach lib
+real 0.02
+user 0.00
+sys 0.02
+Sortuje plik dest o 5000 liniach i 4096 bajtach lib
+real 13.17
+user 2.71
+sys 10.45
+Generuje 1000 lini o 8192 bajtach
+real 0.08
+user 0.08
+sys 0.00
+Kopiuje plik dane do dest o 1000 liniach i 8192 bajtach sys
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 1000 liniach i 8192 bajtach sys
+real 0.35
+user 0.06
+sys 0.29
+Kopiuje plik dane do dest o 1000 liniach i 8192 bajtach lib
+real 0.00
+user 0.00
+sys 0.00
+Sortuje plik dest o 1000 liniach i 8192 bajtach lib
+real 0.49
+user 0.11
+sys 0.37
+Generuje 5000 lini o 8192 bajtach
+real 0.42
+user 0.41
+sys 0.01
+Kopiuje plik dane do dest o 5000 liniach i 8192 bajtach sys
+real 0.02
+user 0.00
+sys 0.02
+Sortuje plik dest o 5000 liniach i 8192 bajtach sys
+real 9.10
+user 2.10
+sys 6.99
+Kopiuje plik dane do dest o 5000 liniach i 8192 bajtach lib
+real 0.03
+user 0.00
+sys 0.03
+Sortuje plik dest o 5000 liniach i 8192 bajtach lib
+real 13.87
+user 3.02
+sys 10.84
+Fukncje systemowe są szybsze jeżeli manipulujemy na dużych danych (w szególności kopiujemy długie ciągi do jednego bufora).

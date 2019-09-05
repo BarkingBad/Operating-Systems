@@ -1,0 +1,24 @@
+Przeprowadzenie przeszukania katalogow o srednim zaglebieniu
+Czas rzeczywisty to: 0.000033
+Czas uzytkownika to: 0.000008
+Czas systemu to: 0.000021
+
+
+Przeprowadzenie przeszukania katalogow o malym zaglebieniu
+Czas rzeczywisty to: 0.000002
+Czas uzytkownika to: 0.000001
+Czas systemu to: 0.000000
+
+
+Przeprowadzenie przeszukania katalogow o duzym zaglebieniu
+Czas rzeczywisty to: 0.002106
+Czas uzytkownika to: 0.000469
+Czas systemu to: 0.001435
+
+
+Dodwanie i usuwanie na przemian kilkunastu blokow pamieci
+Czas rzeczywisty to: 0.000000
+Czas uzytkownika to: 0.000000
+Czas systemu to: 0.000000
+
+
